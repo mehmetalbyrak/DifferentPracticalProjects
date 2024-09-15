@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4_EntityFrameworkCod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_DapperNorthwind", "Project5_DapperNorthwind\Project5_DapperNorthwind.csproj", "{93A11902-9849-432F-98C0-CE0222A6AB46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6_APIWeather", "Project6_APIWeather\Project6_APIWeather.csproj", "{F5C66079-4FD9-450D-AACF-3B89CA92F4A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project6_APIWeather", "Project6_APIWeather\Project6_APIWeather.csproj", "{F5C66079-4FD9-450D-AACF-3B89CA92F4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_APIWeatherConsume", "Project7_APIWeatherConsume\Project7_APIWeatherConsume.csproj", "{3E5F8D15-67BE-4408-9FB4-24C7170BCDEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F5C66079-4FD9-450D-AACF-3B89CA92F4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5C66079-4FD9-450D-AACF-3B89CA92F4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5C66079-4FD9-450D-AACF-3B89CA92F4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5F8D15-67BE-4408-9FB4-24C7170BCDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5F8D15-67BE-4408-9FB4-24C7170BCDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5F8D15-67BE-4408-9FB4-24C7170BCDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5F8D15-67BE-4408-9FB4-24C7170BCDEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
