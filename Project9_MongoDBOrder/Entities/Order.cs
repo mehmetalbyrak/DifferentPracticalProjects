@@ -18,4 +18,6 @@ namespace Project9_MongoDBOrder.Entities
         public string City { get; set; }
         public decimal TotalPrice { get; set; }
     }
+
+    // json vs bson
 }
