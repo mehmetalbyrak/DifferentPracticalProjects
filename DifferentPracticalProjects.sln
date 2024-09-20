@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project9_MongoDBOrder", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project10_PostgreSQLToDoListApp", "Project10_PostgreSQLToDoListApp\Project10_PostgreSQLToDoListApp.csproj", "{4D5CB192-C0F2-4806-ABA0-FBC92246B47C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project11_TriggerOrderStock", "Project11_TriggerOrderStock\Project11_TriggerOrderStock.csproj", "{A3DE29D7-CAD6-4E70-A9BD-7B8527EE35DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4D5CB192-C0F2-4806-ABA0-FBC92246B47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D5CB192-C0F2-4806-ABA0-FBC92246B47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D5CB192-C0F2-4806-ABA0-FBC92246B47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DE29D7-CAD6-4E70-A9BD-7B8527EE35DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DE29D7-CAD6-4E70-A9BD-7B8527EE35DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DE29D7-CAD6-4E70-A9BD-7B8527EE35DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DE29D7-CAD6-4E70-A9BD-7B8527EE35DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
