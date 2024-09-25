@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project14_DatabaseRelationT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project15_GasPriceSimulation", "Project15_GasPriceSimulation\Project15_GasPriceSimulation.csproj", "{72635E70-F04F-4525-A8FC-BFAB7E7FF020}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project16_MailRegisterApp", "Project16_MailRegisterApp\Project16_MailRegisterApp.csproj", "{C5BD8F99-B72B-402D-808D-D4EB49306E62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{72635E70-F04F-4525-A8FC-BFAB7E7FF020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72635E70-F04F-4525-A8FC-BFAB7E7FF020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72635E70-F04F-4525-A8FC-BFAB7E7FF020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BD8F99-B72B-402D-808D-D4EB49306E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BD8F99-B72B-402D-808D-D4EB49306E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BD8F99-B72B-402D-808D-D4EB49306E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BD8F99-B72B-402D-808D-D4EB49306E62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
