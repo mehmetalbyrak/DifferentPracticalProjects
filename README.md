@@ -60,7 +60,7 @@ Kaggle veri setleri (Netflix, pizza siparişleri, market verileri) kullanılarak
 ### 18. Dashboard ve Grafik Uygulaması (C# Forms)
 C# Forms kullanılarak bir dashboard oluşturulmuş, Kaggle veri setleri ile dinamik grafikler ve widgetlar hazırlanmıştır.
 
-### 19. Restoran Masa Yönetim Sistemi
+### 19. Restorant Masa Yönetim Sistemi
 Bir restorana ait masaların anlık doluluk ve boşluk durumu izlenmiş ve bu bilgiler bir yönetim arayüzünde görselleştirilmiştir.
 
 ### 20. Final
